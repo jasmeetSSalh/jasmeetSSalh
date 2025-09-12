@@ -2,7 +2,7 @@
 **Ambitious Software Engineer Intern | Passionate About Developing Tools, Automation, and Data Analytics Solutions**
 
 📍 Based in Toronto, Ontario | 📧 [Email Me](mailto:jsalh@torontomu.ca)  
-🌐 [Portfolio](https://jasmeetssalh.github.io/thisIsJasmeetV2/) | [LinkedIn](https://www.linkedin.com/in/jasmeet-salh-884486240/) | [GitHub](https://github.com/jasmeetSSalh)  
+🌐 [Portfolio](https://jasmeetssalh.github.io/this-is-jasmeet/) | [LinkedIn](https://www.linkedin.com/in/jasmeet-salh-884486240/) | [GitHub](https://github.com/jasmeetSSalh)  
 
 ---
 
