@@ -1,4 +1,5 @@
-# Hi, I'm Jasmeet 👋
+# Hi, I'm Jasmeet <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e131d5ff-02a9-4b4d-9117-447a5a96ff98" />
+
 
 I'm a software engineer finishing my **BSc in Computer Science at Toronto Metropolitan University** (April 2027). I build backend services, cloud infrastructure and full-stack tools that replace manual work.
 
