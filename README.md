@@ -1,42 +1,39 @@
-# 👋 Hi, I'm Jasmeet Salh
-**Ambitious about makeing things more efficient**
+# Hi, I'm Jasmeet 👋
 
-📍 Based in Toronto, Ontario | 📧 [Email Me](mailto:jsalh@torontomu.ca)  
-🌐 [Portfolio](https://jasmeetssalh.github.io/this-is-jasmeet/) | [LinkedIn](https://www.linkedin.com/in/jasmeet-salh-884486240/) | [GitHub](https://github.com/jasmeetSSalh)  
+I'm a software engineer finishing my **BSc in Computer Science at Toronto Metropolitan University** (April 2027). I build backend services, cloud infrastructure and full-stack tools that replace manual work.
 
+**I'm looking for new grad software engineering roles for 2027.**
 
-## Some of my project below:
+[Portfolio](https://jasmeetssalh.github.io/this-is-jasmeet/) · [LinkedIn](https://www.linkedin.com/in/jasmeet-salh-884486240/) · [Email](mailto:jasmeet.salh@gmail.com) · Toronto, ON
 
-### [Project Management Application](https://github.com/jasmeetSSalh/projectManagementApp3000)  
-**Tech**: JavaScript, Node.js, Postgres, Tailwind, Axios  
-A Jira-like tool for efficient task tracking and collaboration.  
-- Built robust backend systems with Node.js and Postgres for smooth data handling.  
-- Designed an intuitive user interface using Tailwind CSS.  
+## Experience
 
----
+- **PointClickCare** · Process Engineer Co-op, SaaS Ops (2026): Deployed a highly available Python service that connects all 12 on-call engineering teams and 3 vendor systems. Ran it on Kubernetes (AKS) with Istio, and built CI/CD with GitHub Actions, Spinnaker and Helm, including canary releases and automatic rollback.
+- **Ontario Ministry of Public and Business Service Delivery** · AI Engineering Developer Co-op (2026): Built a RAG pipeline on Azure AI Foundry that drafts system architecture diagrams.
+- **Ontario Power Generation** · Software Engineer Intern (2025): Led development of an Angular + .NET web app now used by 6 departments (90 trainers). Its AI report generator turns 10–50 hours of manual work into seconds.
+- **Ontario Power Generation** · Data Analyst Intern (2024): Automated Excel reporting with SQL, Power BI and VBA, saving about 120 hours a month.
 
-### [Roomies: Roommate Management Mobile App](https://github.com/jasmeetSSalh/Roomies)  
-**Tech**: VB.NET, JIRA, Figma  
-An app to simplify roommate management, built with a focus on usability and teamwork.  
-- Utilized OOP principles in Visual Basic for a strong application foundation.  
-- Followed Agile practices to ensure timely delivery and collaboration.  
+## Projects
 
----
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**CapyDoro**](https://github.com/jasmeetSSalh/CapyDoro) | A macOS menu bar Pomodoro timer with an animated capybara. Has a released download, unit tests and no third-party dependencies. | Swift, SwiftUI, Python |
+| [**Streamly**](https://github.com/jasmeetSSalh/Streaming-Platform) | A team-built streaming subscription platform. Handles roles, a title catalog, and Stripe subscriptions that are confirmed by verified webhooks. | Next.js, TypeScript, Drizzle, Stripe |
+| [**PilotAssess**](https://github.com/jasmeetSSalh/humanPerformanceTool) | A performance testing platform that generates tests, grades them automatically and tracks results. | Angular, .NET, EF Core, SQLite |
 
-### [Feather Weather Application](https://github.com/jasmeetSSalh/feather-weather)  
-**Tech**: Node.js, Express, Axios, Tailwind, OpenWeatherMap API  
-A real-time weather app integrating OpenWeatherMap API for dynamic updates.  
-- Backend: Node.js & Express for API communication.  
-- Frontend: EJS and Tailwind for responsive design.  
+## Tech
 
----
-
-### [Music & Podcast Terminal Application](https://github.com/jasmeetSSalh/Terminal-Spotify-Clone)  
-**Tech**: Java  
-A command-line music app offering search by artist or genre.  
-- Demonstrated mastery of Java and object-oriented programming concepts.  
-
----
-
-### Let’s Connect!  
-If you're looking for a teammate, mentor, or software engineer—reach out!
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
